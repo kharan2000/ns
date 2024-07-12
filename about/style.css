@@ -1,0 +1,14 @@
+body{background-color: #FAF3E0;
+align-content: center;}
+
+#topic{font-size: larger;
+margin-left: 40%;
+margin-top: 3%;}
+
+#container{color:#4A4A2D;
+    background-color: #FFFFFF;
+    font-size: larger;
+    width: 75%;
+padding: 2.5%;
+margin-left: 9%;
+border-radius: 15%;}
